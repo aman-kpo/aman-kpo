@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aman06012003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman06012003" height="30" width="40" /></a>
+<a href="https://x.com/ak_06012003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman06012003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-kapoor-0509bb227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kapoor-0509bb227" height="30" width="40" /></a>
 <a href="https://kaggle.com/amankapoor0601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amankapoor0601" height="30" width="40" /></a>
 <a href="https://medium.com/@kapooraman2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kapooraman2468" height="30" width="40" /></a>
